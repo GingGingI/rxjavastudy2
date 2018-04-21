@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+    public void just_test() {
+
+    }
+
 }
